@@ -28,7 +28,7 @@ const Overview = () => {
             style={{ background: '#412011' }}
           >
             <div>
-              <p className="text-[15.5px] font-['Poppins',_sans-serif] text-[#E5EDDC] text-justify leading-[1.85] m-0">
+              <p className="text-[15.5px] font-['Poppins',_sans-serif] text-[#E5EDDC] text-left md:text-justify leading-[1.85] m-0">
                 <span 
                   style={{ 
                     float: 'left', 
