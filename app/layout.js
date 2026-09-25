@@ -44,13 +44,13 @@ const nephilm = localFont({
 export const metadata = {
   metadataBase: new URL('https://brigadedevanahalli.co.in'),
   title: 'Brigade WTC Devanahalli | Luxury 1, 1.5, 2 & 3 BHK in Devanahalli',
-  description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*. Pre-launch booking open with ₹1 Lakh EOI. Enquire now!",
+  description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*.",
   alternates: {
     canonical: 'https://brigadedevanahalli.co.in',
   },
   openGraph: {
     title: 'Brigade WTC Devanahalli | Luxury 1, 1.5, 2 & 3 BHK in Devanahalli',
-    description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*. Pre-launch booking open with ₹1 Lakh EOI. Enquire now!",
+    description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*.",
     url: 'https://brigadedevanahalli.co.in',
     siteName: 'Brigade WTC Devanahalli',
     images: [
@@ -67,7 +67,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Brigade WTC Devanahalli | Luxury 1, 1.5, 2 & 3 BHK in Devanahalli',
-    description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*. Pre-launch booking open with ₹1 Lakh EOI. Enquire now!",
+    description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*.",
     images: ['/images/hero/banner1.webp'],
   },
   icons: {
