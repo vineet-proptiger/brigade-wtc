@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://brigadedevanahalli.co.in/sitemap.xml',
+    sitemap: 'http://bhadralandmark95.com/sitemap.xml',
   }
 }

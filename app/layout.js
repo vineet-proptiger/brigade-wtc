@@ -42,16 +42,16 @@ const nephilm = localFont({
 })
 
 export const metadata = {
-  metadataBase: new URL('https://brigadedevanahalli.co.in'),
+  metadataBase: new URL('http://bhadralandmark95.com'),
   title: 'Brigade WTC Devanahalli | Luxury 1, 1.5, 2 & 3 BHK in Devanahalli',
   description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*.",
   alternates: {
-    canonical: 'https://brigadedevanahalli.co.in',
+    canonical: 'http://bhadralandmark95.com',
   },
   openGraph: {
     title: 'Brigade WTC Devanahalli | Luxury 1, 1.5, 2 & 3 BHK in Devanahalli',
     description: "Brigade WTC Devanahalli, Devanahalli offers luxury 1, 1.5, 2 & 3 BHK homes with 30+ amenities from ₹65 Lakhs*.",
-    url: 'https://brigadedevanahalli.co.in',
+    url: 'http://bhadralandmark95.com',
     siteName: 'Brigade WTC Devanahalli',
     images: [
       {
@@ -90,9 +90,9 @@ export default function RootLayout({ children }) {
               "@context": "https://schema.org",
               "@type": "RealEstateAgent",
               "name": "Brigade WTC Devanahalli",
-              "url": "https://brigadedevanahalli.co.in",
-              "logo": "https://brigadedevanahalli.co.in/images/logo/Logo.webp",
-              "image": "https://brigadedevanahalli.co.in/images/hero/banner1.webp",
+              "url": "http://bhadralandmark95.com",
+              "logo": "http://bhadralandmark95.com/images/logo/Logo.webp",
+              "image": "http://bhadralandmark95.com/images/hero/banner1.webp",
               "description": "Brigade WTC Devanahalli at Devanahalli, North Bengaluru offers premium 1, 1.5, 2 & 3 BHK residences.",
               "address": {
                 "@type": "PostalAddress",
@@ -104,7 +104,7 @@ export default function RootLayout({ children }) {
               "telephone": "+919718344024",
               "priceRange": "₹ 65 Lakhs Onwards",
               "sameAs": [
-                "https://brigadedevanahalli.co.in"
+                "http://bhadralandmark95.com"
               ]
             })
           }}

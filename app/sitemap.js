@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = 'https://brigadedevanahalli.co.in'
+  const baseUrl = 'http://bhadralandmark95.com'
   return [
     {
       url: baseUrl,
