@@ -1,5 +1,5 @@
-import NewLaunchPage from './new-launch/page'
+import BrigadeWc from './brigade-wtc/page'
 
 export default function RootPage() {
-  return <NewLaunchPage />
+  return <BrigadeWc />
 }
